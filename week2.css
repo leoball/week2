@@ -1,0 +1,62 @@
+#prof-pic {
+	
+	width: 200px;
+	height: 150px;
+	border-radius: 50px;
+
+
+}
+h1 {
+margin: 0px;
+font-size: 100px;
+
+
+}
+#header {
+
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-bottom: 10px;
+
+
+}
+.logo-img{
+	width: 100px;
+	height: 50px;
+
+
+
+}
+#navbar {
+	text-align: right;
+	color: white;
+	margin: 0px;
+
+
+}
+#INTERESTS p{
+	font-weight: bold;
+
+
+}
+.column{
+
+	
+	text-align: left;
+	/*border-bottom: 1px;*/
+	margin: 0 auto;
+
+}
+.name{
+
+	color: red;
+}
+#footer {
+	text-align: center;
+
+
+
+}
+
+
